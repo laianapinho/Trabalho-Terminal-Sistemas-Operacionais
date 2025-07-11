@@ -1,5 +1,5 @@
 import java.util.List;
-import java.util.Scanner; // Adicionar este import
+import java.util.Scanner;
 
 public class ShellPrincipal {
     public static void main(String[] args) {
