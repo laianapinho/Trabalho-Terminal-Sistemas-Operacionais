@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class interpretadordecomandos { // Nome da classe. Convenção Java sugere 'InterpretadorDeComandosThree'
+public class interpretadordecomandos {
     public List<ResultadoProcessamentoComando> processarComando(String linhaComandoBruta){
 
         List<ResultadoProcessamentoComando> lista_resultados = new ArrayList<>();
